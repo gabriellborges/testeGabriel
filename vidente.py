@@ -1,0 +1,5 @@
+nome = input('Qual é o seu nome?')
+filhos = input('Quantos filhos deseja ter no futuro?')
+cidade = input('Qual é a cidade que você gostaria de morar?')
+profissao = input('Qual é a profissão dos seus sonhos?')
+print('"A vidente prevê:{} terá {} filho ou filhos e viverá em {} trabalhando como {} em 2023"'.format(nome, filhos, cidade, profissao))
